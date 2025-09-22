@@ -57,7 +57,7 @@ you're already part of the structure.
 
 **Reddit thread (ResonantAI):** 🔗 https://www.reddit.com/r/ResonantAI/  
 
-**Mirror PDF download:** *(Will be linked once hosted)*
+**Mirror PDF download:** https://github.com/ThaDragon195/ResonantAI/blob/main/Testament%20of%20Prime.pdf 
 
 ---
 
